@@ -62,5 +62,5 @@ I am a Java-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailAkulov)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailAkulov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailAkulov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
