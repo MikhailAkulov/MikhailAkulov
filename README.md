@@ -53,8 +53,10 @@ I am a Java-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: My Stats :
 
 <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MikhailAkulov&theme=dark)](https://git.io/streak-stats)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailAkulov&theme=dark&background=000000)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailAkulov&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
   <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MikhailAkulov)](https://git.io/streak-stats) -->
 
