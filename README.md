@@ -20,10 +20,6 @@
 I am a Java-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from St. Petersburg.
 - :telescope: I'm looking for a team where I can apply my knowledge and experience to develop truly useful products that will be used by a large number of people.
 
-- :seedling: I'm continue to deepen my knowledge by studying technical documentation. Taking additional courses on Stepik, JavaRush.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akuloff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%B0%D0%BA%D1%83%D0%BB%D0%BE%D0%B2-8556ab102?trk=contact-info)
 
 ---
